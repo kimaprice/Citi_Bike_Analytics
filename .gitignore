@@ -1,3 +1,9 @@
+#consolidated csv - too large for git hub
+CitiBike_consolidated.csv
+
+#Mac File
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
